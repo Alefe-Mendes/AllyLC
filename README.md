@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Alefe 😁
+## Bem-vindo(a) ao perfil da Álefe 😁
 
  <div>
    <a href="https://github.com/Alefe-Mendes">
